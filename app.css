@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+
+body {
+	background-color: #bde0fe;
+}
+
+h2,span {
+	font-family: 'Rowdies', cursive;
+}
+
+.btn {
+	border-radius: 50px;
+	font-family: 'Rowdies', cursive;
+}
+
+.card {
+	border-radius: 20px;
+	background-color: #fbf8cc;
+}
